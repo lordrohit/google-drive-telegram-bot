@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = ""1742227632:AAGMk9wKCOKPdThFU8M1ObFmiOrTxAN_1GA
+    APP_ID = ""5564160
+    API_HASH = ""2b5560d15e0f9083939429add4d5b817
+    DATABASE_URL = ""postgres://gzykcpfqfmgdio:15ed717b34b8a1d52d41f7e84f1670dce4e175030edfe6d4a52c89c2c7165179@ec2-54-196-33-23.compute-1.amazonaws.com:5432/dcdej61t7u7fkt
+    SUDO_USERS = "" # 1601731267
+    SUPPORT_CHAT_LINK = ""https://t.me/mechanicalmovies
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
